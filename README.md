@@ -41,31 +41,9 @@ For demo purposes, you can use [Stripe Testing Cards](https://stripe.com/docs/te
 
 Homepage:
 
-![App Screenshot](./demo/homepage.png)
+![App Screenshot](./demo/main.png)
 
-Categories:
 
-![App Screenshot](./demo/category.png)
-
-Product preview card:
-
-![App Screenshot](./demo/productpreview.png)
-
-Filter by color/size:
-
-![App Screenshot](./demo/filter.png)
-
-Related items:
-
-![App Screenshot](./demo/related.png)
-
-Shopping cart:
-
-![App Screenshot](./demo/shoppingcart.png)
-
-Stripe:
-
-![App Screenshot](./demo/stripe.png)
 
 ## To-Do List
 
